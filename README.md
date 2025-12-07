@@ -1,7 +1,6 @@
 
----
 
-# 🌟 **Short Product Description (Use Anywhere)**
+# 🌟 **Short Product Description**
 
 **BudgetHive** is a simple yet powerful personal finance tracker that helps you record expenses, manage income, set savings goals, and stay in control of your daily spending. Featuring reminders, category tracking, automatic balance calculation, and export-to-CSV, BudgetHive makes managing your money effortless and organized.
 
